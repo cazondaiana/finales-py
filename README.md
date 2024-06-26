@@ -53,7 +53,7 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 
 ## ¿Qué es el PIP y por qué lo actualizamos?
 
-El Python Package Index (PIP) es una herramienta para instalar y controlar los paquetes de Python. Se utiliza para descargar los paquetes desde PyPI e instalarlos en nuestro sistema. 
+Python Package Index (PIP) es una herramienta para instalar y controlar los paquetes de Python. Se utiliza para descargar los paquetes desde PyPI e instalarlos en nuestro sistema. 
 Actualizar pip es importante por varios motivos:
 
 1. Corrección de errores y parches de seguridad: las actualizaciones suelen incluir correcciones de errores y vulnerabilidades descubiertas desde la última versión. La actualización garantiza que tendrá la última versión estable con estas correcciones aplicadas, lo que ayuda a mantener seguro su entorno Python.
